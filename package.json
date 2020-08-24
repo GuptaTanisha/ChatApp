@@ -2,13 +2,10 @@
   "name": "realtimechatapp",
   "version": "1.0.0",
   "description": "",
-  "homepage": "http://GuptaTanisha.github.io/ChatApp",
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server",
-    "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "dev": "nodemon server"
   },
   "author": "",
   "license": "ISC",
